@@ -25,6 +25,9 @@
 ; read and parse stdin, then evaluate:
 (display (eval (read) '())) (newline)
 
+
+;johnrarndt@gmail.com get at me
+
 ;Alot of notes
 
 ;Alot of notes
